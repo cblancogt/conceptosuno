@@ -1,0 +1,13 @@
+C:\dev\csharp\aprendiendo\conceptosuno\conceptosuno\conceptosuno\bin\Debug\netcoreapp3.1\conceptosuno.exe
+C:\dev\csharp\aprendiendo\conceptosuno\conceptosuno\conceptosuno\bin\Debug\netcoreapp3.1\conceptosuno.deps.json
+C:\dev\csharp\aprendiendo\conceptosuno\conceptosuno\conceptosuno\bin\Debug\netcoreapp3.1\conceptosuno.runtimeconfig.json
+C:\dev\csharp\aprendiendo\conceptosuno\conceptosuno\conceptosuno\bin\Debug\netcoreapp3.1\conceptosuno.runtimeconfig.dev.json
+C:\dev\csharp\aprendiendo\conceptosuno\conceptosuno\conceptosuno\bin\Debug\netcoreapp3.1\conceptosuno.dll
+C:\dev\csharp\aprendiendo\conceptosuno\conceptosuno\conceptosuno\bin\Debug\netcoreapp3.1\conceptosuno.pdb
+C:\dev\csharp\aprendiendo\conceptosuno\conceptosuno\conceptosuno\obj\Debug\netcoreapp3.1\conceptosuno.csprojAssemblyReference.cache
+C:\dev\csharp\aprendiendo\conceptosuno\conceptosuno\conceptosuno\obj\Debug\netcoreapp3.1\conceptosuno.AssemblyInfoInputs.cache
+C:\dev\csharp\aprendiendo\conceptosuno\conceptosuno\conceptosuno\obj\Debug\netcoreapp3.1\conceptosuno.AssemblyInfo.cs
+C:\dev\csharp\aprendiendo\conceptosuno\conceptosuno\conceptosuno\obj\Debug\netcoreapp3.1\conceptosuno.csproj.CoreCompileInputs.cache
+C:\dev\csharp\aprendiendo\conceptosuno\conceptosuno\conceptosuno\obj\Debug\netcoreapp3.1\conceptosuno.dll
+C:\dev\csharp\aprendiendo\conceptosuno\conceptosuno\conceptosuno\obj\Debug\netcoreapp3.1\conceptosuno.pdb
+C:\dev\csharp\aprendiendo\conceptosuno\conceptosuno\conceptosuno\obj\Debug\netcoreapp3.1\conceptosuno.genruntimeconfig.cache
